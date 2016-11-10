@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ExtraCreative",
+  "name": "ExtraCreative",
+  "description": "Allows NBT Manipulation in Creative mode",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tron"],
+  "credits": "Tron",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
